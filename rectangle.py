@@ -6,7 +6,6 @@
 #    with radius inputted from the user
 
 import math
-from operator import le
 
 
 def main():
